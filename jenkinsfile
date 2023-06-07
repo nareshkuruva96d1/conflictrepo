@@ -1,4 +1,4 @@
 // jenkins file comment 
-pipeline {
+pipelines {
     // some groovy code
 }
